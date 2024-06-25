@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import supabase from "./supabase";
 import "./style.css";
+import supabase from "./supabase";
 import Header from "./components/header";
 import NewFactForm from "./components/new-fact-form";
 import CategoryFilter from "./components/category-filter";

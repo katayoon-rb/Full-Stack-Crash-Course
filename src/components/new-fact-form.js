@@ -1,3 +1,4 @@
+import supabase from "../supabase";
 import { CATEGORIES } from "../App";
 
 function isValidHttpUrl(string) {

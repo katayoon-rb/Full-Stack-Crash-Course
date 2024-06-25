@@ -1,3 +1,4 @@
+import supabase from "../supabase";
 import { CATEGORIES } from "../App";
 
 export default function Fact({ fact, setFacts }) {
