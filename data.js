@@ -42,3 +42,6 @@ const initialFacts = [
     createdIn: 2015,
   },
 ];
+
+// password: P0WYBOeppVs8YHFN;
+// supabase prj: https://supabase.com/dashboard/project/eyrygcsxvhmsfdxqtcqq
